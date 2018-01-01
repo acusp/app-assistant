@@ -1,4 +1,4 @@
-[WORK IN PROGESS]Wechat Jume Game Assistant
+## [WORK IN PROGESS]Wechat Jume Game Assistant
 
 代码参考自：https://github.com/wangshub/wechat_jump_game, 需要了解最新详细内容的可去该仓库.
 
