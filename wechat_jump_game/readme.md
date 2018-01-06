@@ -16,3 +16,9 @@
 [加密算法分析](https://zhuanlan.zhihu.com/p/32594563)
 
 [修改源码方法](https://bbs.pediy.com/thread-223677.html)
+
+[如何获得微信小游戏跳一跳源码](https://www.v2ex.com/t/419352?p=1)
+
+[微信小程序源码阅读笔记1](http://lrdcq.com/me/read.php/66.htm)
+
+[文件逆向工程思路小记](http://lrdcq.com/me/read.php/67.htm)
