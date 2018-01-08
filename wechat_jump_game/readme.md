@@ -22,3 +22,5 @@
 [微信小程序源码阅读笔记1](http://lrdcq.com/me/read.php/66.htm)
 
 [文件逆向工程思路小记](http://lrdcq.com/me/read.php/67.htm)
+
+[从微信小程序看前端代码安全](https://share.whuboy.com/weapp.html)
